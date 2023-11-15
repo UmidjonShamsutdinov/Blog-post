@@ -1,0 +1,8 @@
+.article__wrapper{
+    display: grid;
+    place-items: center;
+    gap: 20px 0;
+    >p{
+        max-width: 1200px;
+    }
+}
